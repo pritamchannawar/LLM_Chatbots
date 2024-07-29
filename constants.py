@@ -1,1 +1,1 @@
-openai_key="sk-proj-oN2dbfDbwTKyN2Ru3A9WT3BlbkFJUn2diRDi3OrHv94KRnSE"
+openai_key="*****"
